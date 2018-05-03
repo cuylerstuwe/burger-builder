@@ -1,0 +1,9 @@
+.MenuButton {
+
+}
+
+@media (min-width: 499px) {
+    .MenuButton {
+        display: none;
+    }
+}
